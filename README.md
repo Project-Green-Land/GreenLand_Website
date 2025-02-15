@@ -1,4 +1,4 @@
-# 🌱 Welcome to **Project-GreenLand** – The Future of Smart Farming!🚀  
+<h1 align="center">🌱 Welcome to <strong>Project-GreenLands</strong> – The Future of Smart Farming! 🚀</h1>  
 [![GreenLandWebsite](https://github.com/user-attachments/assets/753d7440-07a1-4779-8c87-eeb19ea75082)](https://green-land-website-dev.vercel.app/)
 
 
